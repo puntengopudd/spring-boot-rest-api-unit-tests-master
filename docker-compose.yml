@@ -64,7 +64,3 @@ volumes:
 networks:
   cicd-net:
     driver: bridge
-
-#coba-coba
-#tambahan lagi
-#mantap
