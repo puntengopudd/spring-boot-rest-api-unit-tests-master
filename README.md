@@ -6,4 +6,4 @@
 - Integration tests
 - Mockito
 - JACOCO Coverage reports
-- 1
+- 2
